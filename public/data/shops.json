@@ -1,6 +1,6 @@
 {
   "title": "通販で買ったコーヒー豆のお店マップ",
-  "updated": "2026-10-31",
+  "updated": "2026-11-26",
   "shops": [
     {
       "id": "baristart",
@@ -390,6 +390,26 @@
           "source": "Notion"
         }
       ]
+    },
+    {
+      "id": "enzo",
+      "name": "Enzo Coffee",
+      "prefecture": "福井県",
+      "city": "福井市",
+      "lat": 36.038,
+      "lng": 136.208,
+      "url": "https://www.enzocoffee.net/",
+      "purchases": [
+        {
+          "date": "2026-11-26",
+          "beans": [
+            "ルワンダ ギシェケ ナチュラル 200g",
+            "エチオピア イルガチェフェ チェルチェレ ナチュラル 100g"
+          ],
+          "source": "メール"
+        }
+      ],
+      "shopUrl": "https://enzocoffee.thebase.in/"
     },
     {
       "id": "legare",
